@@ -1,0 +1,8 @@
+C:\Users\Adam\source\repos\BookstoreProject\BookstoreAplication\bin\Debug\netcoreapp2.2\BookstoreAplication.deps.json
+C:\Users\Adam\source\repos\BookstoreProject\BookstoreAplication\bin\Debug\netcoreapp2.2\BookstoreAplication.dll
+C:\Users\Adam\source\repos\BookstoreProject\BookstoreAplication\bin\Debug\netcoreapp2.2\BookstoreAplication.pdb
+C:\Users\Adam\source\repos\BookstoreProject\BookstoreAplication\obj\Debug\netcoreapp2.2\BookstoreAplication.csproj.CoreCompileInputs.cache
+C:\Users\Adam\source\repos\BookstoreProject\BookstoreAplication\obj\Debug\netcoreapp2.2\BookstoreAplication.AssemblyInfoInputs.cache
+C:\Users\Adam\source\repos\BookstoreProject\BookstoreAplication\obj\Debug\netcoreapp2.2\BookstoreAplication.AssemblyInfo.cs
+C:\Users\Adam\source\repos\BookstoreProject\BookstoreAplication\obj\Debug\netcoreapp2.2\BookstoreAplication.dll
+C:\Users\Adam\source\repos\BookstoreProject\BookstoreAplication\obj\Debug\netcoreapp2.2\BookstoreAplication.pdb
